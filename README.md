@@ -1,2 +1,3 @@
-# flex-security-scanner-d19r
-A security vulnerability scanner for modern development workflows
+# Flex Security Scanner D19R
+
+A security vulnerability scanner for modern development workflows.
